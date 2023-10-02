@@ -4,8 +4,8 @@
   "pub_date": "2023-10-02T19:25:57Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "Content of app.tar.gz.sig",
-      "url": "https://github.com/dolmem/dolmen/releases/download/v/app-x86_64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSS00wM2Z0TUU2TnFYQ1lkR0w2anFqZmxvZmdPNjJVSjB6UUJLWjIzNytFRHA4NmFPR3ljUlF2cFZBUU9zV2pjUk8xbDB2U3FsMkxLSVZkbFpTNDV2RXBlMHVjaE0yRUFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjk2MjMxMzgzCWZpbGU6RG9scGhpbiBFZGl0b3IuYXBwLnRhci5negpma3VtdGFrR3FvdUo1Z3c4Wi94Z3ZYdGtiY25qR1kzclJJVzJsRTRIRjFnYmxhOGc5My8xYXhNL0tDZm5KSXhuNndUMklaZER1WHZJVUdPcDRsQXZCdz09Cg==",
+      "url": "https://github.com/dolmem/dolphin/releases/download/v1.0.0/Dolphin.Editor.app.tar.gz"
     }
   }
 }
