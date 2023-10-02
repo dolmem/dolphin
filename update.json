@@ -1,0 +1,11 @@
+{
+  "version": "v1.0.0",
+  "notes": "Test version",
+  "pub_date": "2023-10-02T19:25:57Z",
+  "platforms": {
+    "darwin-x86_64": {
+      "signature": "Content of app.tar.gz.sig",
+      "url": "https://github.com/dolmem/dolmen/releases/download/v/app-x86_64.app.tar.gz"
+    }
+  }
+}
